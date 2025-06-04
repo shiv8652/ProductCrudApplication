@@ -1,5 +1,5 @@
 # ProductCrudApplication 
-  # An Application built with Dot NET Core supporting full CRUD operations for managing Products and Categories. The project uses a relational database (MySQL), and exposes well-documented endpoints via Swagger.
+  # An Application built with Dot NET Core supporting full CRUD operations for managing Products and Categories.
 # Folder Structure
 - Properties
   - launchSettings.json
