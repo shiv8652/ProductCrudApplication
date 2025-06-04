@@ -41,11 +41,12 @@
 
 #  Setup Process
 1) Clone the Repository from GitHub
-2) Configure Your Database Connection
+   1) git clone https://github.com/shiv8652/ProductCrudApplication.git
+3) Configure Your Database Connection
    1) Locate the ConnectionStrings section in appsettings.json file.
    2) Update the value with your actual database connection string.
-3) Apply Database Migrations
-4) Run the Application
+4) Apply Database Migrations
+5) Run the Application
 
 
 
